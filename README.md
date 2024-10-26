@@ -13,7 +13,7 @@ A visually appealing parallax scrolling website built with HTML, CSS, and JavaSc
 --- 
 
 ## Demo 📸
-
+Open the project click [here](https://naveenkumar-developer.github.io/parallaxWebsite/)
 ![parallax img](assets/parallax.png)
 
 ---
